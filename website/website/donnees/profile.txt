@@ -1,0 +1,38 @@
+<br/>
+<font face="OpenDyslexic, monospace">Profile  </font>
+</p>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="xavier-dev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/xavier-dev?trk=profile-badge">Xavier Delpierre</a></div>
+
+<p align="center"><font color="#000000"><font face="Roboto, RobotoDraft, Helvetica, Arial, sans-serif">Maintenant
+la page change bizarrement j&rsquo;ai qu&rsquo;une r&eacute;ponse&nbsp;:</font></font></p>
+
+<iframe src="https://giphy.com/embed/Ll2fajzk9DgaY" width="480" height="273" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funny-front-Ll2fajzk9DgaY">via GIPHY</a></p>
+
+<p align="left"><font color="#000000"><font face="Roboto, RobotoDraft, Helvetica, Arial, sans-serif">Bon
+quel est ma vie&nbsp;:</font></font></p>
+<ul>
+	<li><p align="left"><font color="#000000"><font face="Roboto, RobotoDraft, Helvetica, Arial, sans-serif">Un
+	lecteur de bandes dessin&eacute;es un peut du monde entier pour de
+	nouveaux mondes</font></font></p>
+	<li><p align="left"><font color="#000000"><font face="Roboto, RobotoDraft, Helvetica, Arial, sans-serif">J&rsquo;ai
+	appris &agrave; programmer &agrave; l&lsquo;universit&eacute;</font></font></p>
+	<li><p align="left"><font color="#000000"><font face="Roboto, RobotoDraft, Helvetica, Arial, sans-serif">Je
+	me suis sp&eacute;cialis&eacute; &agrave; travailler sans compter
+	les horaires et les heures &agrave; l&rsquo;universit&eacute; il m&rsquo;a
+	pris 2 ans pour le d&eacute;-apprendre.</font></font></p>
+	<li><p align="left"><font color="#000000"><font face="Roboto, RobotoDraft, Helvetica, Arial, sans-serif">J&rsquo;ai
+	fais un stage chez Avanade/Accenture et les gens &eacute;tait
+	tellement accueillant que quand ils me disait de ralentir j&rsquo;allais
+	plus vite.</font></font></p>
+	<li><p align="left"><font color="#000000"><font face="Roboto, RobotoDraft, Helvetica, Arial, sans-serif">Le
+	covid m&rsquo;a coup&eacute; l&rsquo;herbe sous le pied. J&rsquo;ai
+	d&eacute;cider de me reformer.</font></font></p>
+	<li><p align="left"><font color="#000000"><font face="Roboto, RobotoDraft, Helvetica, Arial, sans-serif">Ce
+	site est un portfolio autant que me mouiller le cou avant de plonger
+	dans le web ^^</font></font></p>
+	<li><p align="left"><font color="#000000"><font face="Roboto, RobotoDraft, Helvetica, Arial, sans-serif">J&rsquo;ai
+	de petits projets qui ne forment pas de grand suivi donc on va
+	commencer &agrave; les lister ici.</font></font></p>
+</ul>

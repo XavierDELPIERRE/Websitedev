@@ -1,0 +1,31 @@
+<br/>
+<font face="OpenDyslexic, monospace">Hébergeur : OVHcloud  </font>
+</p>
+
+<br/>
+<font face="OpenDyslexic, monospace">Siège social OVHcloud : 2 rue Kellermann – 59100 Roubaix – France.
+  </font>
+</p>
+
+<br/>
+<font face="OpenDyslexic, monospace">Service client OVHcloud : 1007
+
+  </font>
+</p>
+
+<br/>
+<font face="OpenDyslexic, monospace">Détenteur du site: Xavier D.
+
+  </font>
+</p>
+
+<br/>
+<font face="OpenDyslexic, monospace">Pas de cookies sur le site
+
+  </font>
+</p>
+
+<br/>
+<font face="OpenDyslexic, monospace">Le site web en lui même ne récupère pas de données personelles, cependant en cas de d'attaques OVHcloud a des méthodes automatiques de protecion.
+  </font>
+</p>

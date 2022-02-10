@@ -1,0 +1,20 @@
+<p align="center">Bonjour Je suis Xavier
+Delpierre et bienvenu sur mon site alors oui il est &laquo;&nbsp;moche&nbsp;&raquo;
+mais il existe. Je suis un perfectionniste &agrave; l&rsquo;extr&ecirc;me
+il sera toujours &laquo;&nbsp;moche&nbsp;&raquo; quelque soit la
+version de mon template.</p>
+<p align="center"><br/>
+<br/>
+
+</p>
+<p align="center">Si ma vie vous int&eacute;resse j&rsquo;ai une page
+d&eacute;di&eacute;. Si le d&eacute;tail du site vous int&eacute;ressent
+il y a aussi une page.</p>
+<p align="center"><br/>
+<br/>
+
+</p>
+<p align="center">Mes divers projets sont disponibles certains
+interactifs comme ce site ^^ mais d&rsquo;autres ne seront que
+pr&eacute;sent&eacute;s. Si possible je mettrai du code source de
+disponible en libre.</p>

@@ -1,0 +1,8 @@
+
+*.sqlite3
+
+*.sh
+
+*.pyc
+
+website/website/settings.py
